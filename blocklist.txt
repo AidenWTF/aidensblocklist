@@ -1,0 +1,5 @@
+! Aidens Blocklist
+! Version 0.1
+! 07/29/2023
+
+||appmetrica.yandex.ru
